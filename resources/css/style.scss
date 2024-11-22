@@ -1,0 +1,16 @@
+.content {
+  padding: 24px 0;
+}
+
+h1 {
+  word-break: break-all;
+}
+
+.switch-language {
+  text-decoration: none;
+  color: #FFFFFF;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}

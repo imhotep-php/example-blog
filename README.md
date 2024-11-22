@@ -1,2 +1,3 @@
-# example-blog
-The example blog application
+# Example Blog
+
+The example Imhotep web application
