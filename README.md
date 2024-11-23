@@ -28,4 +28,5 @@ php server
 ```shell
 ./imhotep docker:install --with=
 ./vendor/bin/docker up -d
+./vendor/bin/docker open
 ```
